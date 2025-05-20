@@ -1,0 +1,9 @@
+# Ignore Emacs backup files
+*~
+# Ignore CGI, Perl, PHP, and log files
+*.cgi
+*.pl
+*.php
+*.log
+# Ignore backup directories
+backup/
